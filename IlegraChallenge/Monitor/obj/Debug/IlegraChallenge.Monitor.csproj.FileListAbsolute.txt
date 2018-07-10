@@ -1,0 +1,19 @@
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Monitor.exe
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\IlegraChallenge.Monitor.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\IlegraChallenge.Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\Monitor.exe
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\Monitor.pdb
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Monitor.exe
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Business.dll
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Domain.dll
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Business.pdb
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\bin\Debug\Domain.pdb
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\IlegraChallenge.Monitor.csprojAssemblyReference.cache
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\IlegraChallenge.Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\IlegraChallenge.Monitor.csproj.CopyComplete
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\Monitor.exe
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Monitor\obj\Debug\Monitor.pdb

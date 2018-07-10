@@ -1,0 +1,14 @@
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Business\bin\Debug\Business.dll
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Business\bin\Debug\Business.pdb
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Business\obj\Debug\IlegraChallenge.Business.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Business\obj\Debug\Business.dll
+C:\Users\Guilherme\Desktop\ilegra_challenge\IlegraChallenge\Business\obj\Debug\Business.pdb
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\bin\Debug\Business.dll
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\bin\Debug\Business.pdb
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\bin\Debug\Domain.dll
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\bin\Debug\Domain.pdb
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\obj\Debug\IlegraChallenge.Business.csprojAssemblyReference.cache
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\obj\Debug\IlegraChallenge.Business.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\obj\Debug\IlegraChallenge.Business.csproj.CopyComplete
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\obj\Debug\Business.dll
+C:\Users\Guilherme Filipiak\Desktop\my_ilegra_challenge\my_ilegra_challenge\IlegraChallenge\Business\obj\Debug\Business.pdb
